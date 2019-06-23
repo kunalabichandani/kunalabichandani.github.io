@@ -7,10 +7,13 @@
         width: 100%
         margin: 4rem 0
 
-    > .toleft,
+    > .toleft
+        display: inline-block
+        width: 15%
+
     > .toright
         display: inline-block
-        width: 47.5%
+        width: 80%
 
         @media #{$below}
             img
@@ -41,3 +44,15 @@
 
         @media #{$below}
             margin: 0
+
+
+    > .toleft > h3,
+    > .toright > h3
+        margin: 0 0 1rem 0
+
+        @media #{$below}
+            margin: 0
+
+    > .toleft > h4,
+    > .toright > h4
+        color: gray

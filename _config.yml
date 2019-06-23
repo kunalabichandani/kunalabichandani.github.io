@@ -34,21 +34,21 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: www.linkedin.com/in/kunal-abichandani
+linkedin: kunal-abichandani
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: kunalabichandani
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: abichandani.kunal@gmail.com

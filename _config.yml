@@ -76,14 +76,17 @@ width: normal
 # paginate: 5
 # paginate_path: "blog/:num/"
 
+#experience tab
+experience: true
+
 # if you don't need projects, comment the *projects* configs below
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false
 blog: true
 
-experience: true
+
 
 # do you want to show the "read time" of the posts?
 read-time: true

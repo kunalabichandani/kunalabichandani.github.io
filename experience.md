@@ -4,9 +4,6 @@ layout: page
 ---
 
 <div class="side-by-side">
-    
-
-<div class="side-by-side">
 
 <div class="toleft">
     <div align = "center">

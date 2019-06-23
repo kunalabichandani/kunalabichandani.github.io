@@ -1,5 +1,5 @@
 # main text of home
-name: Hi, I'm Kunal Abichandani.
+name: Hi, I'm Kunal.
 bio: I'm a student at the University of Pennsylvania. I'm passionate about tech, design, and product. And, I'm always looking for new ways to make impact.
 
 # twitter summary info
@@ -12,7 +12,7 @@ picture: assets/images/face.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -39,7 +39,7 @@ twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
- linkedin: www.linkedin.com/in/kunal-abichandani
+linkedin: www.linkedin.com/in/kunal-abichandani
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub

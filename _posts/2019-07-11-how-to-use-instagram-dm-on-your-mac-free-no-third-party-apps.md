@@ -56,6 +56,8 @@ Press *command + S* or click *File > Save*. Name your application 'Instagram', a
 
 **Voila!** You can now continue your DM conversations right from your Mac!
 
+NOTE: You will stay signed in to your account, so the next time you open the app, you won't need to sign in all over again.
+
 
 <div class="breaker"></div>
 

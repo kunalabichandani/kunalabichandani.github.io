@@ -49,7 +49,7 @@ For **'User Agent'**, choose the **'iPhone'** option. This is important - if you
 
 **Save your application**
 
-Press *command + S* or click *File > Save*. Name your application 'Instagram', and save it to your 'Applications' folder. That's all! Open your app from your Applications folder and you should see something like this: 
+Press *command + S* or click *File > Save*. Name your application 'Instagram', and save it to your 'Applications' folder. That's all! Open your app from your Applications folder. You'll be taken to the login/signup screen; once you're logged in, you should see something like this: 
 
 ![Screenshot](/assets/images/instahomepage.png)
 ![Screenshot](/assets/images/instadm.png)

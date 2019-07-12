@@ -1,10 +1,10 @@
 ---
-title: How to use Instagram DM on your Mac (free, no third-party apps)
+title: How to use Instagram DM on your Mac (free, no third-party apps, 60 sec setup)
 layout: post
-date: 2019-07-24 22:44
-image: "/assets/images/penn.png"
+date: 2019-07-13 22:44
+image: 
 category: blog
-description: Using Instagram DM safely and easily on your Mac (for free!!)
+description: A quick guide on how to setup Instagram DM for Mac. Free, Easy, Safe!
 ---
 
 Have you ever wanted to continue a conversation on Instagram Direct Messages but found it frustrating to pick up and unlock your phone everytime? Had people sliding into your DMs when you're supposed to be "focused" on work? 

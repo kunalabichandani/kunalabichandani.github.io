@@ -13,6 +13,8 @@ It's unfortunate that, as of today, Instagram has no official app for Mac. Yeah,
 
 I've written this tutorial to show how anyone on a Mac can set up Instagram DM in 60 seconds (if you're good at following instructions), without worrying about their data or spending money.  
 
+<div class="breaker"></div>
+
 Requirements: Mac, internet connection.
 
 **Launch Automator**
@@ -20,5 +22,6 @@ Requirements: Mac, internet connection.
 You can do this by searching for 'Automator' on spotlight (quick launch by holding *command + space*). You could also look for it in your applications, it's an icon of a robot, normally in the defualt 'Other' folder. 
 
 
+<div class="breaker"></div>
 
 I was  surprised this solution didn't exist already, so I did some digging. I found that Instagram only recently (mid-May) enabled DM on mobile browsers, which is exactly the trick this solution uses. It also looks like you'll soon be able to [access Instagram for web for all devices](https://techcrunch.com/2019/02/12/instagram-direct-desktop/). Yes, that would make this trick a little redundant, but I've found that being able to launch a mobile-sized application in one click is easier than using Instagram in my browser.

@@ -2,7 +2,8 @@
 title: How to use Instagram DM on your Mac (free, no third-party apps)
 layout: post
 date: 2019-07-24 22:44
-headerImage: true
+image: /assets/images/penn.png
+headerImage: false
 category: blog
 description: Using Instagram DM safely and easily on your Mac (for free!!)
 ---
@@ -24,4 +25,4 @@ You can do this by searching for 'Automator' on spotlight (quick launch by holdi
 
 <div class="breaker"></div>
 
-I was  surprised this solution didn't exist already, so I did some digging. I found that Instagram only recently (mid-May) enabled DM on mobile browsers, which is exactly the trick this solution uses. It also looks like you'll soon be able to [access Instagram for web for all devices](https://techcrunch.com/2019/02/12/instagram-direct-desktop/). Yes, that would make this trick a little redundant, but I've found that being able to launch a mobile-sized application in one click is easier than using Instagram in my browser.
+I was  surprised this solution didn't exist already, so I did some digging. I found that Instagram only recently (mid-May) enabled DM on mobile browsers, which is exactly the trick this solution uses. It also looks like you'll soon be able to [access Instagram for web for all devices](https://techcrunch.com/2019/02/12/instagram-direct-desktop/). Yes, that would make this trick a little redundant, but I've found that being able to launch a mobile-sized application in one click is easier than using Instagram in my browser anyway.

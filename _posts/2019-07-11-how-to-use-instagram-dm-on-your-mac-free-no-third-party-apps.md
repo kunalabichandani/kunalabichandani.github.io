@@ -1,5 +1,5 @@
 ---
-title: How to use Instagram DM on your Mac (free, no third-party apps, 60 sec setup)
+title: How to use Instagram DM on your Mac (free, no third-party apps)
 layout: post
 date: 2019-07-13 22:44
 image: 

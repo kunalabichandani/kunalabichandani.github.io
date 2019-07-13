@@ -34,7 +34,7 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: abichandani.kunal
+#facebook: abichandani.kunal
 #twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -42,7 +42,7 @@ facebook: abichandani.kunal
 linkedin: kunal-abichandani
 # youtube: myyoutube
 # spotify: myspotify
-github: kunalabichandani
+
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -52,6 +52,7 @@ github: kunalabichandani
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: abichandani.kunal@gmail.com
+github: kunalabichandani
 
 authors:
     johndoe:

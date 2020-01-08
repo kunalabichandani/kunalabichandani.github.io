@@ -1,0 +1,14 @@
+...steps to run jekyll and push on github...
+
+common process: go to file directory i.e. cd documents/github/kunalabichandani.github.io
+
+1) Jekyll 
+
+jekyll serve -live reload
+
+
+2) Github 
+
+git add -A 
+git commit -m "blah" 
+git push

@@ -4,7 +4,7 @@ common process: go to file directory i.e. cd documents/github/kunalabichandani.g
 
 1) Jekyll 
 
-jekyll serve -live reload
+jekyll serve --livereload
 
 
 2) Github 

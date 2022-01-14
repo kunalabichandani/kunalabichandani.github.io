@@ -24,7 +24,7 @@ author:
 url: "https://kunalabichandani.com" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: UA-143685981-1 # leave it blank if not wish
 fb_appid:
 
 # Collection setting

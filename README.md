@@ -1,66 +1,61 @@
-<p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="http://sergiokopplin.github.io/indigo/">Demo</a> · <a href="https://travis-ci.org/sergiokopplin/indigo"><img src="https://camo.githubusercontent.com/5393485b732749b3499264168fa8af60166071e8/68747470733a2f2f7472617669732d63692e6f72672f73657267696f6b6f70706c696e2f696e6469676f2e7376673f6272616e63683d67682d7061676573" alt="Build Status" data-canonical-src="https://travis-ci.org/sergiokopplin/indigo.svg?branch=gh-pages" style="max-width:100%;"></a></h2>
-</p>
+# Klisé
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
+For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
 
-***
+## Features
 
-<p align="center">
-    <b><a href="README.md#what-has-inside">What has inside</a></b>
-    |
-    <b><a href="README.md#setup">Setup</a></b>
-    |
-    <b><a href="README.md#settings">Settings</a></b>
-    |
-    <b><a href="README.md#how-to">How to</a></b>
-</p>
+- [x] Light & Dark Mode support :waxing_crescent_moon:
+- [x] Customizable (using `.scss`)
+- [x] Responsive (desktop, tab and mobile)
+- [x] Mobile First Design
+- [x] SEO Optimized
+- [x] Images of post Organized ([`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles))
+- [x] Generate Sitemap ([`jekyll-sitemap`](https://github.com/jekyll/jekyll-sitemap))
+- [x] RSS Feed ([`jekyll-feed`](https://github.com/jekyll/jekyll-feed))
+- [x] Syntax Highlighter ([`rouge`](https://github.com/rouge-ruby/rouge))
+- [x] Next & Previous Post
+- [x] Comment layout, enable in frontmatter if you wish
+- [x] Google analytics
+- [x] HTML Minify ([`jekyll-compress-html`](https://github.com/penibelst/jekyll-compress-html))
+- [x] W3C **Validated**
+- [x] Lighthouse and PageSpeed **Passed**
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
-</p>
+![Lighthouse Result](./lighthouse.png)
 
-## What has inside
+## Backlogs
 
-- [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
-- Tests with [Travis](https://travis-ci.org/)
-- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
-- No JS. :sunglasses:
+- [ ] Intergrated with PhotoSwipe.
+- [ ] Add schema.org meta information.
+- [ ] Transform class selector to BEM metodology.
 
-## Setup
+## Installation
 
-0. :star: to the project. :metal:
-2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-3. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
-4. Write some posts :bowtie:
+Run local server:
 
-If you want to test locally on your machine, do the following steps also:
-
-1. Install [Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
-2. Clone the forked repo on your machine
-3. Enter the cloned folder via terminal and run `bundle install`
-4. Then run `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
-5. Open it in your browser: `http://localhost:4000`
-6. Test your app with `bundle exec htmlproofer ./_site`
-7. Do you want to use the [jekyll-admin](https://jekyll.github.io/jekyll-admin/) plugin to edit your posts? Go to the admin panel: `http://localhost:4000/admin`. The admin panel will not work on GitHub Pages, [only locally](https://github.com/jekyll/jekyll-admin/issues/341#issuecomment-292739469).
-
-## Settings
-
-You must fill some informations on `_config.yml` to customize your site.
-
-```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
-...
-
-and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
+```bash
+$ git clone https://github.com/piharpi/jekyll-klise.git
+$ cd jekyll-klise
+$ bundle install
+$ bundle exec jekyll serve
 ```
 
-## How To?
+Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
 
-Check the [FAQ](./FAQ.md) if you have any doubt or problem.
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/piharpi/jekyll-klise) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise) [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=javascript-0000-jopapa#create/Microsoft.StaticApp)
 
----
+## Limitation
 
-[MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
+- Since [`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles#compatibility) plugin isn't supported by github pages, this cause will make your site problems, path broken or post images won't show up, you can host alternatively using likes [netlify.com](https://netlify.com), [vercel.com](https://vercel.com), [azure.com](https://docs.microsoft.com/azure/static-web-apps/publish-jekyll) or [surge.sh](https://surge.sh) services, which support 3rd party.
+
+## Contributing
+
+If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [contributing](./CONTRIBUTING.md) before PR.
+
+Yeaaa feel free to open a pull request.
+## Support
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7MJ4X) [![saweria.co](./assets/img/saweria-button.png)](https://saweria.co/piharpi)
+## License
+
+This project is open source and available under the [MIT License](LICENSE).

@@ -39,6 +39,6 @@ Rerose is a multi-species design project that takes a wellness focused approach 
 <br>
 <br>
 #### Video Concept: Raising Robotic Natives
-Inspired by Raising Robotic Natives by Philipp Schmitt, this speculative design video implores viewers to question the role of robots in our lives.
+Inspired by <a href="https://philippschmitt.com/archive/2018/work/robotic-natives.html" target="_blank">Raising Robotic Natives</a> by Philipp Schmitt, this speculative design video implores viewers to question the role of robots in our lives. Imagining our world in 2045, it tells the story of a dystopian product called Milicare developed by technology giants to desensitize soldiers and create highly emotive robots. Through this story, it explores the definition of robots, the gap that seperates robots and humans, and our relationships with each other. 
 <iframe src="https://drive.google.com/file/d/1a2sKGAPnaY77dDpjmUraPGqEykOigyUm/preview" width="640" height="400" allow="autoplay"></iframe>
 <!-- #### Book Cover Concept -->

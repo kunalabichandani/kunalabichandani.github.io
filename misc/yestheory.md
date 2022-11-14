@@ -19,7 +19,6 @@ Last week, I was laid off from my first job (after graduating from college this 
 
 - ⚡ Bought into the Seek Discomfort Mindset
     - Here's a <a href="https://drive.google.com/file/d/1Ww_iw3Ib5Fc8_hK1IW24QTHdHT5fzi7I/view?usp=sharing" target="_blank">video</a> I made for a club application describing what Seek Discomfort did for me during college. 
-    - The <a href="https://drive.google.com/file/d/1uJiIhN3WBO6kMFX0A3-8yvZ-JcH3XsiO/view?usp=sharing" target="_blank">essay</a> that got me into college describes my experiences seeking discomfort by caring about problems people told me weren't worth caring about.
 - 📸 Experience with Content Creation
     - In college, I started a podcast called <a href="https://open.spotify.com/show/12arhcyYje4NKhNHqKpp1M?si=4742c69724b84f24" target="_blank">Genzius</a> to share the stories of young people doing cool things. While I ended up not being able to balance it among other things, it taught me a lot about asking thoughtful questions and the business of podcasts.
     - For about a year, I worked on Penn Masala's (195k YouTube subscribers) business team, helping with outreach, thumbnails, and other growth related projects.

@@ -4,7 +4,8 @@ layout: default
 
 <br>
 
-Quick AVAILABILITY
+# Quick Availability
+<br>
 Add your calendar availability to emails in one click.
 
 ## Privacy Policy

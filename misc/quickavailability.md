@@ -62,3 +62,7 @@ We shall not be liable for any indirect, incidental, special, consequential or p
 **7. Changes to Terms**
 
 We reserve the right to modify these Terms at any time. Continued use of the add-on after any such changes constitutes your consent to such changes.
+
+<br> 
+
+For support, please reach out at abichandani [dot] kunal [at] gmail [dot] com

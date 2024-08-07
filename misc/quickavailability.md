@@ -26,7 +26,7 @@ We are committed to protecting your data:
 **Changes to This Privacy Policy**
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-##Terms of Service
+## Terms of Service
 **1. Acceptance of Terms**
 By using the Gmail Availability Add-on ("add-on"), you agree to these Terms of Service.
 

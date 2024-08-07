@@ -7,6 +7,8 @@ layout: default
 # Quick Availability
 Add your calendar availability to emails in one click.
 
+<br>
+
 ## Privacy Policy
 **Introduction**
 This Privacy Policy describes how the Gmail Availability Add-on ("we", "our", or "add-on") collects, uses, and protects information when you use our service.
